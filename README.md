@@ -1,7 +1,7 @@
 # Pomodoro Technique Timer
 
 ## What is it?
-A Pomodoro Technique timer. 
+A Pomodoro Technique timer  
 https://en.wikipedia.org/wiki/Pomodoro_Technique
 
 ## Inputs
