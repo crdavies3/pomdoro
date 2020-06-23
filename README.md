@@ -1,4 +1,4 @@
-# Pomodoro Technique Timer
+# Pomodoro Timer
 
 ## What is it?
 A Pomodoro Technique timer  
