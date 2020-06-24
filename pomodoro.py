@@ -38,7 +38,7 @@ def pomodoro():
         time.sleep(10)
 
     # Beep beep beep - time's up!
-    beep_length = 250                           # millisecs
+    beep_length = 150                           # millisecs
     freqs = [300, 350, 400, 450, 500, 550, 600] # Hz
     print('Time\'s up!')
     for freq in freqs:
