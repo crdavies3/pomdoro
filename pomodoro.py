@@ -45,7 +45,7 @@ def pomodoro():
         winsound.Beep(freq, beep_length)
     
     # Begin next iteration?
-    print('Enter next cycle? Y | N')
+    print('Enter next cycle? Y or N')
     again = str(input()).lower()
     if (again == 'y'):
         pomodoro()
