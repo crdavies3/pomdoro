@@ -24,7 +24,7 @@ def pomodoro():
     pom_input = str(input()).lower()
     if (pom_input == 'custom'):
         print('Enter your custom cycle duration in mins:')
-        duration = input()
+        duration = float(input())
     else:
         duration = pom_dur[pom_input]
 
